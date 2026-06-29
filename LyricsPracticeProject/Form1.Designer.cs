@@ -66,15 +66,17 @@
             this.buttonSearch.TabIndex = 2;
             this.buttonSearch.Text = "Найти песни";
             this.buttonSearch.UseVisualStyleBackColor = true;
+            this.buttonSearch.Click += new System.EventHandler(this.buttonSearch_Click);
             // 
             // listBoxSongs
             // 
             this.listBoxSongs.FormattingEnabled = true;
             this.listBoxSongs.ItemHeight = 16;
-            this.listBoxSongs.Location = new System.Drawing.Point(25, 67);
+            this.listBoxSongs.Location = new System.Drawing.Point(120, 48);
             this.listBoxSongs.Name = "listBoxSongs";
-            this.listBoxSongs.Size = new System.Drawing.Size(120, 84);
+            this.listBoxSongs.Size = new System.Drawing.Size(486, 116);
             this.listBoxSongs.TabIndex = 3;
+            this.listBoxSongs.SelectedIndexChanged += new System.EventHandler(this.listBoxSongs_SelectedIndexChanged);
             // 
             // labelArtist
             // 
@@ -111,6 +113,7 @@
             this.buttonGetLyrics.TabIndex = 7;
             this.buttonGetLyrics.Text = "Найти текст";
             this.buttonGetLyrics.UseVisualStyleBackColor = true;
+            this.buttonGetLyrics.Click += new System.EventHandler(this.buttonGetLyrics_Click);
             // 
             // buttonClear
             // 
@@ -120,6 +123,7 @@
             this.buttonClear.TabIndex = 8;
             this.buttonClear.Text = "Отчистить";
             this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
             // textBoxArtist
             // 
@@ -137,12 +141,12 @@
             // 
             // textBoxLyrics
             // 
-            this.textBoxLyrics.Location = new System.Drawing.Point(337, 67);
+            this.textBoxLyrics.Location = new System.Drawing.Point(337, 170);
             this.textBoxLyrics.Multiline = true;
             this.textBoxLyrics.Name = "textBoxLyrics";
             this.textBoxLyrics.ReadOnly = true;
             this.textBoxLyrics.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBoxLyrics.Size = new System.Drawing.Size(451, 369);
+            this.textBoxLyrics.Size = new System.Drawing.Size(451, 266);
             this.textBoxLyrics.TabIndex = 11;
             // 
             // Form1
