@@ -25,10 +25,7 @@ namespace LyricsPracticeProject.Services
                 return new List<SongItem>();
             }
 
-            string url = "https://itunes.apple.com/search?term="
-                + Uri.EscapeDataString(query)
-                + "&entity=song&limit=10";
-
+            string url = "https://itunes.apple.com/search?term=" + Uri.EscapeDataString(query) + "&entity=song&limit=10";
             string json = await httpClient.GetStringAsync(url);
 
             ItunesSearchResponse response = JsonConvert.DeserializeObject<ItunesSearchResponse>(json);
@@ -42,8 +39,7 @@ namespace LyricsPracticeProject.Services
 
             foreach (ItunesTrack track in response.Results)
             {
-                if (string.IsNullOrWhiteSpace(track.ArtistName) ||
-                    string.IsNullOrWhiteSpace(track.TrackName))
+                if (string.IsNullOrWhiteSpace(track.ArtistName) || string.IsNullOrWhiteSpace(track.TrackName))
                 {
                     continue;
                 }

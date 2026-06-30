@@ -81,7 +81,7 @@
             // labelArtist
             // 
             this.labelArtist.AutoSize = true;
-            this.labelArtist.Location = new System.Drawing.Point(22, 168);
+            this.labelArtist.Location = new System.Drawing.Point(22, 173);
             this.labelArtist.Name = "labelArtist";
             this.labelArtist.Size = new System.Drawing.Size(97, 16);
             this.labelArtist.TabIndex = 4;
@@ -90,7 +90,7 @@
             // labelTitle
             // 
             this.labelTitle.AutoSize = true;
-            this.labelTitle.Location = new System.Drawing.Point(22, 199);
+            this.labelTitle.Location = new System.Drawing.Point(22, 204);
             this.labelTitle.Name = "labelTitle";
             this.labelTitle.Size = new System.Drawing.Size(76, 16);
             this.labelTitle.TabIndex = 5;
@@ -99,7 +99,7 @@
             // labelStatus
             // 
             this.labelStatus.AutoSize = true;
-            this.labelStatus.Location = new System.Drawing.Point(12, 416);
+            this.labelStatus.Location = new System.Drawing.Point(2, 446);
             this.labelStatus.Name = "labelStatus";
             this.labelStatus.Size = new System.Drawing.Size(117, 16);
             this.labelStatus.TabIndex = 6;
@@ -107,7 +107,7 @@
             // 
             // buttonGetLyrics
             // 
-            this.buttonGetLyrics.Location = new System.Drawing.Point(125, 224);
+            this.buttonGetLyrics.Location = new System.Drawing.Point(125, 229);
             this.buttonGetLyrics.Name = "buttonGetLyrics";
             this.buttonGetLyrics.Size = new System.Drawing.Size(103, 23);
             this.buttonGetLyrics.TabIndex = 7;
@@ -117,9 +117,9 @@
             // 
             // buttonClear
             // 
-            this.buttonClear.Location = new System.Drawing.Point(243, 413);
+            this.buttonClear.Location = new System.Drawing.Point(796, 141);
             this.buttonClear.Name = "buttonClear";
-            this.buttonClear.Size = new System.Drawing.Size(88, 23);
+            this.buttonClear.Size = new System.Drawing.Size(107, 23);
             this.buttonClear.TabIndex = 8;
             this.buttonClear.Text = "Отчистить";
             this.buttonClear.UseVisualStyleBackColor = true;
@@ -127,14 +127,14 @@
             // 
             // textBoxArtist
             // 
-            this.textBoxArtist.Location = new System.Drawing.Point(125, 168);
+            this.textBoxArtist.Location = new System.Drawing.Point(125, 173);
             this.textBoxArtist.Name = "textBoxArtist";
             this.textBoxArtist.Size = new System.Drawing.Size(206, 22);
             this.textBoxArtist.TabIndex = 9;
             // 
             // textBoxTitle
             // 
-            this.textBoxTitle.Location = new System.Drawing.Point(125, 196);
+            this.textBoxTitle.Location = new System.Drawing.Point(125, 201);
             this.textBoxTitle.Name = "textBoxTitle";
             this.textBoxTitle.Size = new System.Drawing.Size(206, 22);
             this.textBoxTitle.TabIndex = 10;
@@ -146,14 +146,14 @@
             this.textBoxLyrics.Name = "textBoxLyrics";
             this.textBoxLyrics.ReadOnly = true;
             this.textBoxLyrics.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBoxLyrics.Size = new System.Drawing.Size(451, 266);
+            this.textBoxLyrics.Size = new System.Drawing.Size(562, 292);
             this.textBoxLyrics.TabIndex = 11;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 448);
+            this.ClientSize = new System.Drawing.Size(915, 474);
             this.Controls.Add(this.textBoxLyrics);
             this.Controls.Add(this.textBoxTitle);
             this.Controls.Add(this.textBoxArtist);

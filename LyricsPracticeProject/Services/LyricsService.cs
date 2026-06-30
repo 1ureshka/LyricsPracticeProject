@@ -31,10 +31,7 @@ namespace LyricsPracticeProject.Services
                 throw new ArgumentException("Не указано название песни.");
             }
 
-            string url = "https://api.lyrics.ovh/v1/"
-                + Uri.EscapeDataString(artist)
-                + "/"
-                + Uri.EscapeDataString(title);
+            string url = "https://api.lyrics.ovh/v1/" + Uri.EscapeDataString(artist) + "/" + Uri.EscapeDataString(title);
 
             using (HttpResponseMessage response = await httpClient.GetAsync(url))
             {
@@ -45,8 +42,7 @@ namespace LyricsPracticeProject.Services
 
                 if (!response.IsSuccessStatusCode)
                 {
-                    throw new InvalidOperationException(
-                        "Ошибка API. Код ответа: " + (int)response.StatusCode);
+                    throw new InvalidOperationException("Ошибка API. Код ответа: " + (int)response.StatusCode);
                 }
 
                 string json = await response.Content.ReadAsStringAsync();

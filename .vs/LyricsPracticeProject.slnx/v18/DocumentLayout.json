@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|c:\\users\\0\\source\\repos\\lyricspracticeproject\\lyricspracticeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\lyricspracticeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\lyricspracticeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|c:\\users\\0\\source\\repos\\lyricspracticeproject\\lyricspracticeproject\\services\\lyricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\services\\lyricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|c:\\users\\0\\source\\repos\\lyricspracticeproject\\lyricspracticeproject\\services\\songsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\services\\songsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|c:\\users\\0\\source\\repos\\lyricspracticeproject\\lyricspracticeproject\\services\\lyricsformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\lyricspracticeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\lyricspracticeproject\\services\\lyricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\services\\lyricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\lyricspracticeproject\\services\\lyricsformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\services\\lyricsformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|c:\\users\\0\\source\\repos\\lyricspracticeproject\\lyricspracticeproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\lyricspracticeproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,9 +44,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\lyricspracticeproject\\models\\itunestrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\models\\itunestrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|c:\\users\\0\\source\\repos\\lyricspracticeproject\\lyricspracticeproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,8 +53,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SongSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\Services\\SongSearchService.cs",
+              "RelativeDocumentMoniker": "LyricsPracticeProject\\Services\\SongSearchService.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\Services\\SongSearchService.cs",
+              "RelativeToolTip": "LyricsPracticeProject\\Services\\SongSearchService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T21:15:30.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -70,36 +84,21 @@
               "RelativeDocumentMoniker": "LyricsPracticeProject\\Services\\LyricsFormatter.cs",
               "ToolTip": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\Services\\LyricsFormatter.cs",
               "RelativeToolTip": "LyricsPracticeProject\\Services\\LyricsFormatter.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAuwCUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T21:19:35.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T21:19:35.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LyricsService.cs",
               "DocumentMoniker": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\Services\\LyricsService.cs",
               "RelativeDocumentMoniker": "LyricsPracticeProject\\Services\\LyricsService.cs",
               "ToolTip": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\Services\\LyricsService.cs",
               "RelativeToolTip": "LyricsPracticeProject\\Services\\LyricsService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T21:17:30.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SongSearchService.cs",
-              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\Services\\SongSearchService.cs",
-              "RelativeDocumentMoniker": "LyricsPracticeProject\\Services\\SongSearchService.cs",
-              "ToolTip": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\Services\\SongSearchService.cs",
-              "RelativeToolTip": "LyricsPracticeProject\\Services\\SongSearchService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAhwCQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T21:15:30.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T21:17:30.809Z"
             },
             {
               "$type": "Document",
@@ -110,8 +109,7 @@
               "ToolTip": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\LyricsPracticeProject.csproj",
               "RelativeToolTip": "LyricsPracticeProject\\LyricsPracticeProject.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-29T20:58:45.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T20:58:45.13Z"
             },
             {
               "$type": "Document",
@@ -123,18 +121,17 @@
               "RelativeToolTip": "LyricsPracticeProject\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T20:58:30.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T20:58:30.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\Form1.cs",
               "RelativeDocumentMoniker": "LyricsPracticeProject\\Form1.cs",
               "ToolTip": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\Form1.cs",
               "RelativeToolTip": "LyricsPracticeProject\\Form1.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAawI0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-29T11:02:43.112Z",
               "EditorCaption": ""
@@ -149,8 +146,7 @@
               "RelativeToolTip": "LyricsPracticeProject\\Models\\LyricsResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T22:11:52.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T22:11:52.005Z"
             },
             {
               "$type": "Document",
@@ -162,8 +158,7 @@
               "RelativeToolTip": "LyricsPracticeProject\\Models\\ItunesSearchResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T22:01:47.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T22:01:47.145Z"
             },
             {
               "$type": "Document",
@@ -175,8 +170,7 @@
               "RelativeToolTip": "LyricsPracticeProject\\Models\\ItunesTrack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T21:59:52.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T21:59:52.519Z"
             },
             {
               "$type": "Document",
@@ -188,8 +182,7 @@
               "RelativeToolTip": "LyricsPracticeProject\\Models\\SongItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T21:51:12.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T21:51:12.616Z"
             },
             {
               "$type": "Document",

@@ -15,11 +15,7 @@ namespace LyricsPracticeProject.Services
                 return "Текст песни отсутствует.";
             }
 
-            string normalizedText = lyrics
-                .Replace("\r\n", "\n")
-                .Replace("\r", "\n")
-                .Trim();
-
+            string normalizedText = lyrics.Replace("\r\n", "\n").Replace("\r", "\n").Trim();
             string[] lines = normalizedText.Split('\n');
 
             List<string> result = new List<string>();

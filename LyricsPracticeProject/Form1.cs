@@ -64,7 +64,7 @@ namespace LyricsPracticeProject
             }
             catch (Exception exception)
             {
-                labelStatus.Text = "Ошибка поиска: " + exception.Message;
+                labelStatus.Text = "Ошибка поиска, попробуйте ещё раз";
             }
             finally
             {
