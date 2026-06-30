@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|c:\\users\\0\\source\\repos\\lyricspracticeproject\\lyricspracticeproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\lyricspracticeproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{77188E4F-D458-42D0-9CCB-CE98AB93F21C}|LyricsPracticeProject\\LyricsPracticeProject.csproj|solutionrelative:lyricspracticeproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "LyricsPracticeProject\\README.md",
               "ToolTip": "C:\\Users\\0\\source\\repos\\LyricsPracticeProject\\LyricsPracticeProject\\README.md",
               "RelativeToolTip": "LyricsPracticeProject\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-06-30T19:25:10.333Z",
               "EditorCaption": ""
@@ -90,8 +90,7 @@
               "RelativeToolTip": "LyricsPracticeProject\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-30T11:12:55.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T11:12:55.071Z"
             },
             {
               "$type": "Document",
