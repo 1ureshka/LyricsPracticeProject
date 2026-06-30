@@ -94,7 +94,7 @@ namespace LyricsPracticeProject
                 string formattedLyrics = lyricsFormatter.Format(lyrics);
 
                 textBoxLyrics.Text = formattedLyrics;
-                labelStatus.Text = "Текст песни успешно получен.";
+                labelStatus.Text = "Текст песни получен успешно.";
             }
             catch (Exception exception)
             {
