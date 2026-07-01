@@ -153,6 +153,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(915, 474);
             this.Controls.Add(this.textBoxLyrics);
             this.Controls.Add(this.textBoxTitle);
@@ -167,6 +168,7 @@
             this.Controls.Add(this.textBoxSearch);
             this.Controls.Add(this.labelSeach);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
